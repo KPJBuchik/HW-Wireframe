@@ -1,0 +1,36 @@
+header { background-color:#ebebeb;
+         padding:20px;
+         margin-right:auto;
+         margin-left:auto;}
+Nav    { background-color:#ebebeb;
+    padding:20px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 10px;}
+Section { background-color:#ebebeb;
+    padding:20px;
+    float:left; 
+    margin-top:10px;
+    margin-right:10px;
+    width:49%;
+    height:80%;
+    margin-bottom:10px;
+        }
+Body {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size:18px;
+    margin:auto;}
+footer {clear:both;
+    padding:20px;
+    margin-top:10px;
+    margin-left:auto;
+    background-color:#ebebeb; }
+Aside {background-color:#ebebeb;
+    margin-left:10px;
+    margin-top:10px;
+    margin-bottom:5px;
+    width:33.3%;
+    height:140px;
+    float:left; }

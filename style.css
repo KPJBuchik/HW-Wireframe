@@ -1,5 +1,6 @@
 header { background-color:#ebebeb;
          padding:20px;
+         margin-top:5px;
          margin-right:auto;
          margin-left:auto;}
 Nav    { background-color:#ebebeb;
@@ -12,7 +13,7 @@ Section { background-color:#ebebeb;
     float:left; 
     margin-top:10px;
     margin-right:10px;
-    width:49%;
+    width:50%;
     height:80%;
     margin-bottom:10px;
         }
@@ -31,6 +32,6 @@ Aside {background-color:#ebebeb;
     margin-left:10px;
     margin-top:10px;
     margin-bottom:5px;
-    width:33.3%;
-    height:140px;
+    width:43.7%;
+    height:223px;
     float:left; }

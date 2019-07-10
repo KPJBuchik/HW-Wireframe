@@ -2,12 +2,14 @@ header { background-color:#ebebeb;
          padding:20px;
          margin-top:5px;
          margin-right:auto;
-         margin-left:auto;}
+         margin-left:auto;
+         text-align:center;}
 Nav    { background-color:#ebebeb;
     padding:20px;
     margin-right:auto;
     margin-left:auto;
-    margin-top: 10px;}
+    margin-top: 10px;
+    text-align:center;}
 Section { background-color:#ebebeb;
     padding:20px;
     float:left; 
@@ -16,7 +18,28 @@ Section { background-color:#ebebeb;
     width:50%;
     height:80%;
     margin-bottom:10px;
+    text-align:center;
         }
+
+H1{background-color:#ebebeb;
+    color:pink;
+    margin-left:10px;
+    margin-right:10px;
+    padding:15px;
+    text-align:center;}
+
+#paragraph{background-color:#ebebeb;
+            color:pink;
+            margin-top:2px;
+            margin-left:10px;
+            margin-right:10px;
+            margin-bottom:10px;
+            padding:15px;
+            text-align:center;}
+Article { color:#ebebeb;
+    background:#777; 
+    padding:20px;
+    text-align:center;}
 Body {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
     background: #777;
@@ -27,11 +50,13 @@ footer {clear:both;
     padding:20px;
     margin-top:10px;
     margin-left:auto;
-    background-color:#ebebeb; }
+    background-color:#ebebeb; 
+    text-align:center;}
 Aside {background-color:#ebebeb;
     margin-left:10px;
     margin-top:10px;
     margin-bottom:5px;
     width:43.7%;
-    height:223px;
-    float:left; }
+    height:333px;
+    float:left; 
+    text-align:center;}
